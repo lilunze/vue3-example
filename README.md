@@ -1,7 +1,3 @@
-<!--
- * @Author: lilunze
- * @LastEditors: lilunze
--->
 # vue3-example
 
 ## Project setup
