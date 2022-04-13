@@ -1,3 +1,7 @@
+<!--
+ * @Author: lilunze
+ * @LastEditors: lilunze
+-->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
