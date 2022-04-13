@@ -4,5 +4,5 @@
  * @Desc: 控制台页面
 -->
 <template>
-
+  <div>1234</div>
 </template>
